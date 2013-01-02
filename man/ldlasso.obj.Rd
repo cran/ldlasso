@@ -32,7 +32,6 @@
     in ld_lasso_method \cr
     }
   }
-\source{}
 \references{Samuel Younkin, Joseph Nadeau, Robert Elston and J. Sunil
   Rao, "The Linkage Disequilibrium LASSO for SNP Selection in a Genetic
   Association Study of Late Onset Alzheimer Disease," Technical Report,

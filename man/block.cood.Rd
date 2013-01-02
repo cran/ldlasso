@@ -12,7 +12,6 @@
 }
 \usage{block.cood}
 \format{A vector containing 86 entries}
-\source{}
 \references{Samuel Younkin, Joseph Nadeau, Robert Elston and J. Sunil
   Rao, "The Linkage Disequilibrium LASSO for SNP Selection in a Genetic
   Association Study of Late Onset Alzheimer Disease," Technical Report,

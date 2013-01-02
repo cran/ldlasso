@@ -1,4 +1,4 @@
-244c0d7238ae5e43420ae11c5a5f37f7 *DESCRIPTION
+cbb888f748d025703d2cf06f1b1d36d5 *DESCRIPTION
 53345c11de651bf8ee68c83934a7d988 *NAMESPACE
 dfb1957cc46bbf324d5702352b147936 *R/block.bounds.R
 a7fcf3f3235d19ed624141c69cfff295 *R/block.map.matrix.R
@@ -16,9 +16,9 @@ cfdc1402ad21eef20fbb470a9158a637 *R/r2.cut.fn.R
 9dac53fac3cfc89ff4d7e2e438f14322 *data/ldlasso_example.RData
 872ac0ce03ef4e15977187daacf89acc *doc/ldlasso_vignette.pdf
 fa3aab4c84266ee411a25895b98c366f *man/block.bounds.Rd
-145329245ff53383f82f48aa15db0db4 *man/block.cood.Rd
+8ce48b8ee9b63d52904acd8270dc18a6 *man/block.cood.Rd
 6a55f669df62bef68b3b37fa6e0dccf0 *man/block.map.matrix.Rd
-ec0075924e72bdfd5f298e2acd894f84 *man/block.obj.Rd
+32995a3070cf337d84a5b48af00fb07c *man/block.obj.Rd
 e4f416ccff10fe87d6768381ae95ab5f *man/chi2.Rd
 79239611e542d26fcc1c1a2fe4e9bafe *man/get.cp.Rd
 0f7565c7cd8488996f2a29eab3b4de8a *man/get.s1.Rd
@@ -26,7 +26,7 @@ abf7165feb29789153f8355b33a678aa *man/heatmap.Rd
 7e7a00d107a4b953a87015bfa430afdc *man/ld_lasso.Rd
 4b70a487c67f48f069eae39c567999d1 *man/ld_lasso_method.Rd
 29e45082ffe8e5a846b7eae7b9ef1311 *man/ldlasso-package.Rd
-d7397117936c35b27c76fc21d105327e *man/ldlasso.obj.Rd
+1acd64cd834a12f892fef6107ba15e6a *man/ldlasso.obj.Rd
 51a5cad5dfecc262790c39b6cd608923 *man/p0tos1.Rd
 0100ffeff8e6ec0afa46ca12b12f9088 *man/plot_beta.Rd
 e20305b396aa54f60378d59842d5ba30 *man/plot_ldlasso.Rd
